@@ -38,3 +38,4 @@ Application Execution:
 The script initializes a QApplication, creates an instance of the Root class, and starts the application event loop.
 Conclusion
 This script exemplifies how to create an interactive game using PyQt6, combining user input handling, dynamic feedback, and file I/O for state management. The structured approach and clear separation of functionalities make it a good starting point for learning GUI programming and game development in Python.
+![alt text](https://github.com/MazenNassar/Guess-Game/blob/main/image.png?raw=true)
